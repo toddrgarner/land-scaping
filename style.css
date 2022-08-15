@@ -1,7 +1,7 @@
 /* Universal Selector */
 * {
   margin:0;
-  padding:0p  
+  padding:0; 
 }
 
 /* Element Selectors */
@@ -66,7 +66,7 @@ img {
 section {
   margin-bottom: 0;
   padding: 20px 10px 40px 10px;
-  border-top: 3px solid #DDAF94;
+  border-top: 0px solid #DDAF94;
   background-color:  #E8CEBF;
 }
 
