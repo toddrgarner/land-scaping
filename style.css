@@ -1,7 +1,7 @@
 /* Universal Selector */
 * {
   margin:0;
-  padding:0;  
+  padding:0p  
 }
 
 /* Element Selectors */
@@ -38,12 +38,12 @@ footer {
   height: 60px;
   width: 100%;
   line-height: 60px;
-  background-color: #266150;
+  background-color: #000806;
 }
 
 header {
   position: fixed;
-  border-bottom: 10px solid #DDAF94;
+  border-bottom: 10px solid #fdfbfa;
 }
 
 footer {
